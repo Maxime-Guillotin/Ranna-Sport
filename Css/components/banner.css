@@ -1,0 +1,17 @@
+.banner {
+	background-image: linear-gradient(0deg, rgba(0,0, 0, 0.2) 0%, rgba(0, 0, 0, 0.5)  20%), url(../../Images/football.jpg) ;
+	color: white;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: bottom;
+}
+
+.banner h1 {
+	font-size: 50px;
+}
+.banner h2 {
+	font-size: 30px;
+	opacity: 0.7;
+	font-weight: lighter;
+	margin-bottom: 40px;
+}
